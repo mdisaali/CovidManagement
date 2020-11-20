@@ -147,7 +147,6 @@ public class PatientHandler {
     /**
      * This module allows the user to enter the search criteria (aadhaar id, status, city, state, pincode),
      * and returns the list of patients matching the provided search criteria.
-     * <p>
      * After presenting the search result, the user should be provided with an option to search again or
      * go to the main menu.
      */
